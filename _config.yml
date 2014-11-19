@@ -8,7 +8,7 @@ url:              http://xso.github.io
 # Jekyll configuration
 
 #permalink:   /:categories/:title/
-permalink:   /:categories/:title.html
+permalink:   /:year/:month/:day/:title.html
 markdown:    kramdown
 highlighter: pygments
 sass:
